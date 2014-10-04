@@ -1,7 +1,7 @@
 Lager maps patch
 ================
 
-This patch make possible for lager to work with maps
+This patch make possible for [lager](https://github.com/basho/lager) to work with maps
 
 Add to your reabr.config file:
 
